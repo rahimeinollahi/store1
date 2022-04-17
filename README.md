@@ -1,2 +1,3 @@
 # store1
 only for test and this item were many mistake and wrong code. it wrote very bad , in the future i try improv ....
+readmed file is changed
