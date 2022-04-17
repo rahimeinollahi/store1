@@ -19,7 +19,7 @@
                     <input type="button" value="Login" id="submit" @click="checkLogin()" class="btn btn-block btn-info w-100 mt-1 mb-1"/>
                 </form>
 
-                    <span id="forgot-password" class="">forgot password</span>
+                    <span id="forgot-password" class="">forgot password | click here</span>
             </div>
 
             <div class="col-sm-4"></div>
