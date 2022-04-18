@@ -29,7 +29,7 @@
                 <router-link class=" bg-info nav-link" to="/about">login</router-link>
             </li>
         </ul>
-        <!-- <button class="btn btn-info">Let's get started</button> -->
+        <!-- <button class="btn btn-info">Let's get started you can</button> -->
     </div>
 </template>
 
