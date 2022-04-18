@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
     <router-link to="/login-page"> | Login</router-link>
+    <router-link to="/manage-panel"> | Pannel</router-link>
   </div>
   <router-view/>
 </template>

@@ -39,7 +39,7 @@
         methods:{
             checkLogin(){
                 if(this.userName =="rahim" && this.password=="1369"){
-                    this.$router.push('/about')
+                    this.$router.push('/')
                     }
                 else{
                     alert('invalid username or password')

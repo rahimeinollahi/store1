@@ -16,6 +16,11 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
+    path: '/manage-panel',
+    name: 'manage-panel',
+    component: () => import(/* webpackChunkName: "MannagePannel" */ '../views/ManagePanel.vue')
+  },
+  {
     path: '/login-page',
     name: 'login-page',
     component: () => import(/* webpackChunkName: "page-login" */ '../views/LoginPage.vue')
